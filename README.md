@@ -1,0 +1,2 @@
+# MyDice
+Uses socket.io
