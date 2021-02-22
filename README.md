@@ -17,3 +17,6 @@ After downloading the Repo, and having everything of the **Requirements** follow
 npm install
 ```
   You will see that, now there is a folder called node_modules,which contains all the dependancies this project requires.
+  
+#### TWO-PLAYER GAME
+- It is begginer friendly, so see the code [here](https://github.com/CyberCitizen01/MyDice/tree/2-User) and read this [comment](https://github.com/CyberCitizen01/MyDice/pull/2) before to understand better.
